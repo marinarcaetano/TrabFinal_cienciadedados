@@ -1,0 +1,44 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Internações por Unidade da Federação e Ano/mês processamento
+Procedimento: 0303010223 TRATAMENTO DE INFECÇÃO PELO CORONAVIRUS – COVID 19
+Período:2020
+"Unidade da Federação";"2020/Abr";"2020/Mai";"2020/Jun";"2020/Jul";"2020/Ago";"2020/Set";"2020/Out";"2020/Nov";"2020/Dez";"Total"
+"11 Rondônia";47;328;761;932;1012;653;328;274;215;4550
+"12 Acre";2;27;224;296;262;175;200;153;227;1566
+"13 Amazonas";202;1845;2979;1890;1173;1267;1264;1455;201;12276
+"14 Roraima";2;252;497;283;158;114;89;123;181;1699
+"15 Pará";110;2148;4695;3311;3746;1955;1110;767;667;18509
+"16 Amapá";17;241;374;517;341;176;155;188;409;2418
+"17 Tocantins";6;79;200;469;221;135;65;68;84;1327
+"21 Maranhão";97;2623;4301;3519;2710;1727;1656;1184;868;18685
+"22 Piauí";29;298;865;1800;2313;1506;1220;934;903;9868
+"23 Ceará";256;2375;5053;4072;3985;2488;1965;1654;1274;23122
+"24 Rio Grande do Norte";29;309;970;1213;1070;910;715;599;649;6464
+"25 Paraíba";37;232;824;1633;940;767;671;424;608;6136
+"26 Pernambuco";415;3490;4785;5703;4255;3058;1453;3499;3208;29866
+"27 Alagoas";1;111;680;1033;1527;728;545;372;341;5338
+"28 Sergipe";-;56;227;605;856;943;618;407;368;4080
+"29 Bahia";119;829;2067;3202;3302;2886;2062;1970;2723;19160
+"31 Minas Gerais";97;578;1895;5087;6242;5898;5031;4077;5648;34553
+"32 Espírito Santo";25;665;1313;2146;1705;1549;1214;956;1266;10839
+"33 Rio de Janeiro";850;4538;5470;5606;4545;3858;3454;4839;5705;38865
+"35 São Paulo";1405;9959;14963;22926;17841;13422;11362;8971;10948;111797
+"41 Paraná";139;389;1108;2664;3719;3562;3232;3113;4776;22702
+"42 Santa Catarina";62;335;562;1782;2683;2447;1584;1933;2882;14270
+"43 Rio Grande do Sul";120;788;1230;2879;3875;3915;3851;3592;4602;24852
+"50 Mato Grosso do Sul";4;18;96;261;676;998;1056;557;742;4408
+"51 Mato Grosso";7;58;482;1583;2137;1760;1542;991;768;9328
+"52 Goiás";7;104;832;2092;3274;3040;2885;2010;1856;16100
+"53 Distrito Federal";45;390;1095;1721;2124;1144;1285;764;803;9371
+"Total";4130;33065;58548;79225;76692;61081;50612;45874;52922;462149
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
